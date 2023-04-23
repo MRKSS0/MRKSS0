@@ -2,7 +2,7 @@
 ## 💻 [Who am I?]
 Hi, I'm Marco but they calls me Mark or MRK. I love foods and especially pizza 🍕
 
-What I like mostly, it's coding, coding and coding. What I hate mostly, it's when I figure out the error on code, but I never gave up for this.
+What I like mostly, it's coding, coding and coding. What I hate mostly, it's when I find the error on code, but I never gave up for this.
 
 
 ## 👾 [What can I do?]
