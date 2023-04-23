@@ -9,7 +9,7 @@ What I like mostly, it's coding, coding and coding. What I hate mostly, it's whe
 
 I started with HTML and CSS obviously, then I started to code in JavaScript. When I wanted become full-stack developer, then I learned PHP and structure SQL.
 
-Now, I'm trying to learn JavaScript side-server, but I still code in PHP for fun. On repository I think I will publish more JS than PHP project.
+Now, I'm trying to learn JavaScript server-side, but I still code in PHP for fun. On repository I think I will publish more JS than PHP project.
 ## 💾 [What do I like?]
 
 What you saw the icon, I love floppy disks! Uh... I don't know why. Just i love them, like in past they were powerful storage, and now look at them... Only 1.44Mb?!
