@@ -12,7 +12,7 @@ I started with HTML and CSS obviously, then I started to code in JavaScript. Whe
 Now, I'm trying to learn JavaScript server-side, but I still code in PHP for fun. On repository I think I will publish more JS than PHP project.
 ## 💾 [What do I like?]
 
-What you saw the icon, I love floppy disks! Uh... I don't know why. Just i love them, like in past they were powerful storage, and now look at them... Only 1.44Mb?!
+What you saw the icon, I love floppy disks! Uh... I don't know why. I just love them, like in past they were powerful storage, and now look at them... Only 1.44Mb?!
 
 But they became an iconic for games, such "Do you want save the game? Press 💾".
 
